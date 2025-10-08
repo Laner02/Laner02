@@ -3,6 +3,7 @@
 <p align="center">
 🚀 <b>I’m Developing Desktop Apps with WPF, web apps with Blazor or Django, and (trying) games with Unity!</b> 🚀
 <br>
+<br>
 💻 <b>I’m a Software Engineer and AI hybrid developer, working at WIP by LEAR</b> 💻	
 <br>
 <br>
