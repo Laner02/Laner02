@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Raúl! 🌱</h1>
 
-<!--
-**Laner02/Laner02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 <b>I’m Developing Desktop Apps with WPF, web apps with Blazor or Django, and (trying) games with Unity!</b> 🚀
+<br>
+💻 <b>I’m a Software Engineer and AI hybrid developer, working at WIP by LEAR</b> 💻	
+<br>
+<br>
+<b>Good design, Usability and Modularity</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <b>Some of my Skills:</b>
+</p>
+
+![SKILLS](https://skills-icons.vercel.app/api/icons?i=androidstudio,rider,navicat,sqlite,sqlserver,bing,edge,msdos,microsoftcopilot,azure,powershell,windows,dotnet,winui,wasdk,vscode,visualstudio,stackoverflow,c,cpp,csharp,xaml,nuget,cakebuild,handycontrols,cmake,qtwidgets,arduino,raspberrypi,regex,git,gitkraken,github,kotlin,python,java,typescript,css,js,html,npm,nodejs,hexo,linux,ubuntu,debian,kali,bash,wordpress,ps,camtasia,md,telegram,chatgpt,ollama&perline=15)  
+
+---
